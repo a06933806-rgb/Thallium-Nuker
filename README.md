@@ -4,7 +4,7 @@
 
 ## Installation
 
-- Download the latest version from [Leveragers](https://discord.gg/programmers) or from GitHub.
+- Download the latest version from [Leveragers](https://discord.gg/programmer) or from GitHub.
 - Extract all the content.
 - Run `thallium.exe`.
 - Install required modules from `requirements.txt` by typing `Y` when prompted in the `EXE` file.
@@ -38,8 +38,7 @@ If you have any doubts, please do not use our tool. Thallium is offered without 
 
 ## Contact
 
-- Discord: **@aesthetic.aizer#0**
-- Server: [NT](https://discord.gg/ntop) | [Leveragers Tools/Code](https://discord.gg/DKj7wfAu3W)
-- Instagram: [mohit.4sure](https://www.instagram.com/mohit.4sure)
+- Discord: **@aizer.fr#0**
+- Server: [leveragers](https://discord.gg/programmer) | [Leveragers Tools/Code](https://discord.gg/programmer)
 
----
+
